@@ -73,7 +73,7 @@ export default function Login() {
                             <div className='flex w-full pb-8'>
                                 <button
                                     type='submit'
-                                    className='flex w-full items-center justify-center rounded bg-blue-800 py-2 text-sm text-white transition duration-150 ease-in hover:bg-blue-600 focus:outline-none sm:text-base'
+                                    className='flex w-full items-center justify-center rounded bg-emerald-400 py-2 text-sm text-white transition duration-150 ease-in hover:bg-blue-600 focus:outline-none sm:text-base'
                                 >
                                     <span className='mr-2 uppercase'>Login</span>
                                 </button>
